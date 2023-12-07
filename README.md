@@ -10,7 +10,7 @@
 We've developed an app to help young adults learn about investment and trading, specifically focusing on cryptocurrencies. It's not just about teaching through media or books; it's an interactive platform where users can simulate real-time crypto investments using our custom local coin, blu coin.
 
 ## 💡 Features and Pages (Android App):
-1️⃣ Home Page: Provides an overview of the user coins and its balance.
+1️⃣ Home Page: Provides an overview of the user coins and its balance and the current value of the coins.
 
 2️⃣ Wallet Page: Displays the user's balance and allows them to manage their coins and see their transactions between their friends.
 
