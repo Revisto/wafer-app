@@ -1,7 +1,10 @@
-# Blu Coin
+# 🪙 Blu Coin
 
 ### The app is an interactive platform that educates young adults about investment and trading, focusing on cryptocurrencies, while providing simulated real-time crypto investments using a custom local coin called blu coin.
 
+
+
+![](https://github.com/Revisto/wafer-app/blob/master/img/mk.jpg?raw=true)
 
 ## 📱 App Idea:
 We've developed an app to help young adults learn about investment and trading, specifically focusing on cryptocurrencies. It's not just about teaching through media or books; it's an interactive platform where users can simulate real-time crypto investments using our custom local coin, blu coin.
@@ -27,6 +30,10 @@ The backend of our app is powered by Django APIs and Django Rest Framework (DRF)
 
 Backend also serves as a handler for various cryptocurrency operations. It includes methods for retrieving the real-time value of a cryptocurrency, converting a specified cryptocurrency amount to its equivalent value in another cryptocurrency or blu coin.
 
+
+![](https://github.com/Revisto/wafer-app/blob/master/img/mk.jpg?raw=true)
+
+
 ## 🚀 Future Ideas:
 We have exciting plans for the future of our app! Here are some ideas we're considering:
 
@@ -41,6 +48,9 @@ We have exciting plans for the future of our app! Here are some ideas we're cons
 5️⃣ Providing real-time analysis of coin values, even on smaller screens, through a dedicated coin analysis page (📉📱).
 
 6️⃣ Offering recommendations for low-risk coins to encourage users to explore different investment opportunities (🔍💼).
+
+
+![](https://github.com/Revisto/wafer-app/blob/master/img/mk2.jpg?raw=true)
 
 # 🤝 Business Idea
 
