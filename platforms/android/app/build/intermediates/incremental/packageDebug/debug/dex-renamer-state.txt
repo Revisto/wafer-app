@@ -1,0 +1,4 @@
+#Thu Dec 07 07:29:41 IRST 2023
+base.0=/home/rev/flutter-hello-world/mp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/rev/flutter-hello-world/mp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

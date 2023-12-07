@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Wafer</name>
+    <description>Wafer MPM App</description>
+    <icon src="www/images/logo/144.png" />
+    <author email="therevisto@gmail.com" href="https://cordova.apache.org">
+        Wafer Team
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-navigation href="*" />
+    <allow-intent href="*" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+
+    <!-- Allow links to example.com to open in a browser -->
+    <allow-intent href="http://example.com/*" />
+
+    <!-- Wildcards are allowed for the protocol, as a prefix
+        to the host, or as a suffix to the path -->
+    <allow-intent href="*://*.example.com/*" />
+
+    <!-- Allow SMS links to open messaging app -->
+    <allow-intent href="sms:*" />
+
+    <!-- Allow tel: links to open the dialer -->
+    <allow-intent href="tel:*" />
+
+    <!-- Allow geo: links to open maps -->
+    <allow-intent href="geo:*" />
+        <plugin name="cordova-plugin-whitelist" spec="1" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+        <preference name="LoadingDialog" value="Bitch, Wait for it" />
+        <preference name="HideKeyboardFormAccessoryBar" value="true" />
+        <preference name="Fullscreen" value="true" />
+    </platform>
+
+<allow-intent href="*" />
+</widget>

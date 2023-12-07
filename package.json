@@ -1,0 +1,32 @@
+{
+  "name": "io.cordova.wafer",
+  "displayName": "Wafer MPM",
+  "version": "1.0.0",
+  "description": "A Trading App Designed For MPM Contest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Wafer Team",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "7.0",
+    "cordova-browser": "^7.0.0",
+    "cordova-plugin-network-information": "^3.0.0",
+    "cordova-plugin-whitelist": "1"
+  },
+  "cordova": {
+    "platforms": [
+      "browser",
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-network-information": {},
+      "cordova-plugin-whitelist": {}
+    }
+  },
+  "dependencies": {}
+}
