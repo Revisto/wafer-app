@@ -25,6 +25,8 @@ We've developed an app to help young adults learn about investment and trading, 
 ## 🔧 Technical Details (Cordova):
 The frontend of our app is developed using Cordova (🔌), which utilizes HTML, CSS, and JavaScript to create a cross-platform mobile application. Cordova allows us to leverage web technologies and build a user-friendly interface for our app.
 
+![](https://github.com/Revisto/wafer-app/blob/master/video/video.mp4?raw=true)
+
 ## 🔙 Backend (Django APIs and DRF):
 The backend of our app is powered by Django APIs and Django Rest Framework (DRF) (🔙). We utilize these technologies to handle data storage, user authentication, and communication between the app and the server. DRF enables us to create robust and secure APIs to support various app functionalities.
 
