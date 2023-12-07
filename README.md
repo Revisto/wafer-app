@@ -1,10 +1,15 @@
+# Blu Coin
+
+### The app is an interactive platform that educates young adults about investment and trading, focusing on cryptocurrencies, while providing simulated real-time crypto investments using a custom local coin called blu coin.
+
+
 ## 📱 App Idea:
 We've developed an app to help young adults learn about investment and trading, specifically focusing on cryptocurrencies. It's not just about teaching through media or books; it's an interactive platform where users can simulate real-time crypto investments using our custom local coin, blu coin.
 
 ## 💡 Features and Pages (Android App):
 1️⃣ Home Page: Provides an overview of the user coins and its balance.
 
-2️⃣ Wallet Page: Displays the user's balance and allows them to manage their coins.
+2️⃣ Wallet Page: Displays the user's balance and allows them to manage their coins and see their transactions between their friends.
 
 3️⃣ Buy Coin: Enables users to purchase different cryptocurrencies using blu coin.
 
@@ -12,7 +17,7 @@ We've developed an app to help young adults learn about investment and trading, 
 
 5️⃣ Educational Platform: Offers educational content, including posts and blogs, to learn about financial markets, trading strategies, and banking terminologies.
 
-6️⃣ Tips and Notifications: Send tips about buying and selling specific coins.
+6️⃣ Tips and Notifications: Send tips about investment techiques and loss risks.
 
 ## 🔧 Technical Details (Cordova):
 The frontend of our app is developed using Cordova (🔌), which utilizes HTML, CSS, and JavaScript to create a cross-platform mobile application. Cordova allows us to leverage web technologies and build a user-friendly interface for our app.
@@ -20,8 +25,11 @@ The frontend of our app is developed using Cordova (🔌), which utilizes HTML, 
 ## 🔙 Backend (Django APIs and DRF):
 The backend of our app is powered by Django APIs and Django Rest Framework (DRF) (🔙). We utilize these technologies to handle data storage, user authentication, and communication between the app and the server. DRF enables us to create robust and secure APIs to support various app functionalities.
 
+Backend also serves as a handler for various cryptocurrency operations. It includes methods for retrieving the real-time value of a cryptocurrency, converting a specified cryptocurrency amount to its equivalent value in another cryptocurrency or blu coin.
+
 ## 🚀 Future Ideas:
 We have exciting plans for the future of our app! Here are some ideas we're considering:
+
 1️⃣ Expanding the educational content to cover more financial topics and banking concepts through interactive games and visual media (🎮📊).
 
 2️⃣ Introducing a competitive community where users can compete with each other and climb the leaderboard based on their performance and earned coins (🏆🤝).
@@ -52,4 +60,8 @@ b. In-App Purchases: 💰 Users can buy blu coins directly, creating an addition
 
 - 🎉 Win-Win Situation: Users enjoy discounts, partner companies gain customers, and your app generates revenue. 🙌
 
-🌟 We're constantly working on improving the app and bringing more exciting features to empower young adults in the world of finance and investment!
+1. 🎉 Users: Users enjoy discounts and exclusive deals, saving money and discovering new businesses and products.
+
+2. 🎉 Blue Bank (host): Blue Bank attracts and retains customers, generates revenue through the app, and strengthens partnerships with businesses.
+
+3. 🎉 Third-Party Companies: Partner companies gain access to a larger customer base, increase brand visibility, and boost sales.
