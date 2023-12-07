@@ -26,48 +26,6 @@
               "xml": "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\" />",
               "count": 1
             }
-          ],
-          "/manifest": [
-            {
-              "xml": "<uses-permission android:name=\"android.permission.CAMERA\" />",
-              "count": 2,
-              "after": "uses-permission"
-            },
-            {
-              "xml": "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\" />",
-              "count": 2,
-              "after": "uses-permission"
-            },
-            {
-              "xml": "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\" />",
-              "count": 2,
-              "after": "uses-permission"
-            },
-            {
-              "xml": "<uses-permission android:name=\"android.permission.ACCESS_BACKGROUND_LOCATION\" />",
-              "count": 2,
-              "after": "uses-permission"
-            },
-            {
-              "xml": "<uses-permission android:name=\"android.permission.BLUETOOTH\" />",
-              "count": 2,
-              "after": "uses-permission"
-            },
-            {
-              "xml": "<uses-permission android:name=\"android.permission.BLUETOOTH_ADMIN\" />",
-              "count": 2,
-              "after": "uses-permission"
-            },
-            {
-              "xml": "<uses-permission android:name=\"android.permission.READ_CONTACTS\" />",
-              "count": 4,
-              "after": "uses-permission"
-            },
-            {
-              "xml": "<uses-permission android:name=\"android.permission.WRITE_CONTACTS\" />",
-              "count": 2,
-              "after": "uses-permission"
-            }
           ]
         }
       }
