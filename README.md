@@ -3,10 +3,15 @@ We've developed an app to help young adults learn about investment and trading, 
 
 ## 💡 Features and Pages (Android App):
 1️⃣ Home Page: Provides an overview of the user coins and its balance.
+
 2️⃣ Wallet Page: Displays the user's balance and allows them to manage their coins.
+
 3️⃣ Buy Coin: Enables users to purchase different cryptocurrencies using blu coin.
+
 4️⃣ Sell Coin: Allows users to sell their owned cryptocurrencies and convert them into blu coin.
+
 5️⃣ Educational Platform: Offers educational content, including posts and blogs, to learn about financial markets, trading strategies, and banking terminologies.
+
 6️⃣ Tips and Notifications: Send tips about buying and selling specific coins.
 
 ## 🔧 Technical Details (Cordova):
@@ -18,10 +23,15 @@ The backend of our app is powered by Django APIs and Django Rest Framework (DRF)
 ## 🚀 Future Ideas:
 We have exciting plans for the future of our app! Here are some ideas we're considering:
 1️⃣ Expanding the educational content to cover more financial topics and banking concepts through interactive games and visual media (🎮📊).
+
 2️⃣ Introducing a competitive community where users can compete with each other and climb the leaderboard based on their performance and earned coins (🏆🤝).
+
 3️⃣ Implementing additional ways for users to earn coins, such as rewarding them for successful transactions or achieving certain milestones (💰📈).
+
 4️⃣ Adding a trading helper bot to assist only newbie users.
+
 5️⃣ Providing real-time analysis of coin values, even on smaller screens, through a dedicated coin analysis page (📉📱).
+
 6️⃣ Offering recommendations for low-risk coins to encourage users to explore different investment opportunities (🔍💼).
 
 # 🤝 Business Idea
